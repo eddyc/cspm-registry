@@ -5,7 +5,7 @@
         {
             "name" : "simple",
             "description" : "A simple sawtooth oscillator",
-            "url" : "A simple sawtooth udo using vco2"
+            "url" : "https://github.com/eddyc/simple.csp.git"
         }    
     
     ]
