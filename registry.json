@@ -1,0 +1,12 @@
+{
+    "url" : "https://github.com/eddyc/cspm-registry.git",
+    "packages" : [
+    
+        {
+            "name" : "simple",
+            "description" : "A simple sawtooth oscillator",
+            "url" : "A simple sawtooth udo using vco2"
+        }    
+    
+    ]
+}
