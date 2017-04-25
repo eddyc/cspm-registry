@@ -1,12 +1,15 @@
 {
-    "url" : "https://github.com/eddyc/cspm-registry.git",
-    "packages" : [
-    
+    "name": "cspm-registry",
+    "description": "Csound UDO packages",
+    "packages": [
         {
-            "name" : "simple",
-            "description" : "A simple sawtooth oscillator",
-            "url" : "https://github.com/eddyc/simple.csp.git"
-        }    
-    
+            "name": "simple",
+            "description": "A simple sawtooth oscillator",
+            "location": {
+                "type": "github",
+                "user": "eddyc",
+                "repository": "simple.csp"
+            }
+        }
     ]
 }
