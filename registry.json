@@ -5,7 +5,8 @@
         {
             "name": "simple",
             "version": "1.0.0",
-            "description": "A simple sawtooth oscillator",
+            "dependencies": {},
+            "description": "Simple sawtooth oscillator.",
             "location": {
                 "type": "github",
                 "user": "eddyc",
