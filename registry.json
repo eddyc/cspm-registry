@@ -1,9 +1,8 @@
 {
     "name": "cspm-registry",
     "description": "Csound UDO packages",
-    "packages": [
-        {
-            "name": "simple",
+    "packages": {
+        "simple": {
             "version": "1.0.0",
             "dependencies": {},
             "description": "Simple sawtooth oscillator.",
@@ -13,5 +12,5 @@
                 "repository": "simple.csp"
             }
         }
-    ]
+    }
 }
