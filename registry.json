@@ -11,6 +11,16 @@
                 "user": "eddyc",
                 "repository": "simple.csp"
             }
+        },
+        "AudioToPolar": {
+            "version": "1.0.0",
+            "dependencies": {},
+            "description": "Convert Audio to polar frequencies and magnitudes.",
+            "location": {
+                "type": "github",
+                "user": "eddyc",
+                "repository": "AudioToPolar.csp"
+            }
         }
     }
 }
