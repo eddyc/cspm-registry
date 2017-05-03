@@ -12,14 +12,14 @@
                 "repository": "simple.csp"
             }
         },
-        "AudioToPolar": {
+        "ChangeFileExtension": {
             "version": "1.0.0",
             "dependencies": [],
-            "description": "Convert Audio to polar frequencies and magnitudes.",
+            "description": "Change file extension in path.",
             "location": {
                 "type": "github",
                 "user": "eddyc",
-                "repository": "AudioToPolar.csp"
+                "repository": "ChangeFileExtension.csp"
             }
         }
     }
