@@ -6,6 +6,7 @@
             "version": "1.0.0",
             "dependencies": [],
             "description": "Convert Audio to polar frequencies and magnitudes.",
+            "type": "udo",
             "location": {
                 "type": "github",
                 "user": "eddyc",
@@ -16,10 +17,22 @@
             "version": "1.0.0",
             "dependencies": [],
             "description": "Change file extension in path.",
+            "type": "udo",
             "location": {
                 "type": "github",
                 "user": "eddyc",
                 "repository": "ChangeFileExtension.csp"
+            }
+        },
+        "AudioToPVSFile": {
+            "version": "1.0.0",
+            "dependencies": [],
+            "description": "Convert an audio file to pvs magnitudes and frequencies",
+            "type": "csd",
+            "location": {
+                "type": "github",
+                "user": "eddyc",
+                "repository": "AudioToPVSFile.csp"
             }
         }
     }
