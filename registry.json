@@ -3,7 +3,7 @@
     "description": "Csound UDO packages",
     "packages": {
         "AudioToPolar": {
-            "version": "1.0.0",
+            "version": "1.0.1",
             "dependencies": [],
             "description": "Convert Audio to polar frequencies and magnitudes.",
             "type": "udo",
